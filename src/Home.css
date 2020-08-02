@@ -1,0 +1,16 @@
+.titleHome h3{
+    margin: auto;
+}
+
+.titleHome{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.btnLogout Button{
+    margin:auto;
+    width: 30%;
+    margin-top: 300px;
+}
+.containerHome{
+    min-height: 600px;
+}
